@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=10&color=3AF771&center=true&width=435&lines=Namaste!;I+am+Mrigank+Shrivastava;You+can+call+me+Mri!" alt="Typing SVG" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myth7777&label=Profile%20views&color=0e75b6&style=flat" alt="myth7777" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/mrigank_20" target="blank"><img src="https://img.shields.io/twitter/follow/mrigank_20?logo=twitter&style=for-the-badge" alt="mrigank_20" /></a> </p>
 
