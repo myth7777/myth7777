@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=10&color=3AF771&center=true&width=435&lines=Namaste!;I+am+Mrigank+Shrivastava;You+can+call+me+Mri!" alt="Typing SVG" /></a>
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=10&color=3AF771&center=true&width=435&lines=Namaste!;I+am+Mrigank+Shrivastava;You+can+call+me+Mri!" alt="Typing SVG" /></a></h2>
 
 ###
 
